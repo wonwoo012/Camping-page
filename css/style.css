@@ -511,6 +511,10 @@ nav {
   background-color: #F3F1F1;
   border-radius:5px;
 }
+.photo_btn a:hover {
+  background-color: #000;
+  color: #fff;
+}
 footer {
   height: 100px;
   background-color: #627D5D;
